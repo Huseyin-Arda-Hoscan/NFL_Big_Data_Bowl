@@ -1,0 +1,6 @@
+# Buyuk Veri Klasoru
+nfl-big-data-bowl-2027/
+*.csv
+
+# IDE Yapilandirma Dosyalari
+.idea/
