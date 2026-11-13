@@ -1,8 +1,11 @@
-# Buyuk Veri Klasoru
+# Büyük Ham Veri Klasörü ve Büyük Ara Önbellek Dosyaları
 nfl-big-data-bowl-2027/
-data_cache/
-*.csv
-*.parquet
+data_cache/*
+!data_cache/wr_predraft_micro_master.parquet
+!data_cache/figures/
 
-# IDE Yapilandirma Dosyalari
+# IDE ve Geçici Dosyalar
 .idea/
+__pycache__/
+.ipynb_checkpoints/
+project_rapor.pdf
